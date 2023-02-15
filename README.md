@@ -35,10 +35,7 @@
       <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushkumar95&show_icons=true&count_private=true&theme=tokyonight" alt="Ayushkumar95's github stats" /> </p></a>
     <a href="#">  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumar95&theme=tokyonight" /> </p>
     </a>
-    <a href="#"><img alt="Ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar95&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-    <br>
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-
+   
 
   <a href="https://github.com/Ayushkumar95/github-readme-activity-graph"><img alt="Ayush Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ayushkumar95&theme=tokyonight" /></a>
 </p>
