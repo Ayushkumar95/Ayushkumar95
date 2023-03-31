@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Javascript,MERN, Solidity, Blockchain,Hardhat**
 
-- ⚡ Fun fact **I Think I am Devil**
+- ⚡ Fun fact **I Think I am a Gym Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
