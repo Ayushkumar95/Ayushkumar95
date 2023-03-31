@@ -32,10 +32,11 @@
 
   <div align="center">
     <a href="#">
-      <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushkumar95&show_icons=true&count_private=true&theme=tokyonight" alt="Ayushkumar95's github stats" /> </p></a>
-    <a href="#">  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumar95&theme=tokyonight" /> </p>
+      <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asyncAyush&show_icons=true&count_private=true&theme=tokyonight" alt="asyncAyush's github stats" /> </p></a>
+    <a href="#">  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asyncAyush&theme=tokyonight" /> </p>
     </a>
    
 
-  <a href="https://github.com/Ayushkumar95/github-readme-activity-graph"><img alt="Ayush Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ayushkumar95&theme=tokyonight" /></a>
+  <a href="https://github.com/asyncAyush/github-readme-activity-graph"><img alt="Ayush Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=asyncAyush&theme=tokyonight" /></a>
+      
 </p>
