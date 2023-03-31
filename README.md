@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Ayush_kumar53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ayush_kumar53" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Ayushkumar95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayushkumar95" height="30" width="40" /></a>
+<a href="https://twitter.com/asyncAyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asyncAyush" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asyncAyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asyncAyush" height="30" width="40" /></a>
 
 </p>
 
