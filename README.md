@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A Passionate Full Stack Web3 Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayushkumar95&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushkumar95" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asyncAyush&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushkumar95" /> </p>
 
 <p align="left "> 
 
 <p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=Ayushkumar95&theme=onedark&row=1&column=8">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=asyncAyush&theme=onedark&row=1&column=8">
 </p>
 </a></p>
 
-<p align="left"> <a href="https://twitter.com/Ayush_kumar53" target="blank"><img src="https://img.shields.io/twitter/follow/Ayush_kumar53?logo=twitter&style=for-the-badge" alt="Ayush_kumar53" /></a> </p>
+<p align="left"> <a href="https://twitter.com/asyncAyush" target="blank"><img src="https://img.shields.io/twitter/follow/asyncAyush?logo=twitter&style=for-the-badge" alt="asyncAyush" /></a> </p>
 
 - 🌱 I’m currently learning  **EtherJs** 
 
